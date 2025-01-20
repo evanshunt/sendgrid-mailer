@@ -17,8 +17,8 @@
         }
     ],
     "require": {
-        "silverstripe/cms": "^4.3",
-        "silverstripe/framework": "^4.3",
+        "silverstripe/cms": "^4.3 || ^5",
+        "silverstripe/framework": "^4.3 || ^5",
         "sendgrid/sendgrid": "^7.3",
         "composer/installers": "*"
     }
